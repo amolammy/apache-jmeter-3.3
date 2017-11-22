@@ -1,0 +1,2 @@
+# JMeter generated Authorization file
+http://165.113.22.14/1.0.0/	hss	hss_test	http://165.113.22.14/1.0.0/		BASIC_DIGEST
